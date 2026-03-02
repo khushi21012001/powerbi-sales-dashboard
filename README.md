@@ -18,4 +18,4 @@ This project analyzes sales performance using Power BI.
 - Data Visualization
 
 ## Dashboard Preview
-![Dashboard Preview] (sa;espowerbi-dashboard.png)
+![Dashboard Preview] (salespowerbi-dashboard.png)
